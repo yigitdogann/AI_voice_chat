@@ -1,2 +1,2 @@
 # AI_voice_chat
- Basic chat with ai
+At this current position, you can ask your questions then get the reply via very basic interface.
